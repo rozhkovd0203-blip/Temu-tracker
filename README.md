@@ -1,0 +1,1 @@
+This file is intended for installation. If you want to launch the website from a file—or if you prefer to access it via a link—you can download the file provided below; once you open it, you will find a link to the website.
